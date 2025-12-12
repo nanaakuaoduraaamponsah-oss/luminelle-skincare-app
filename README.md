@@ -160,10 +160,10 @@ Calculates consecutive days with journal entries
 -link
 
   ## 👤 Author
-Nana Akua Oduraa Amponsah 
-Web Technology Final Project  - Luminelle Skin Care App
-Ashesi University 
-December 2024
+- Nana Akua Oduraa Amponsah 
+- Web Technology Final Project  - Luminelle Skin Care App
+- Ashesi University 
+= December 2024
 
 This project was developed as part of the Web Technology course final assessment.
 
